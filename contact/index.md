@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Contact Me 
 subtitle: Let's Get In Touch
 image: contact-bg.jpg

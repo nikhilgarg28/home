@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Me
 subtitle: From Bhiwani To Silicon Valley
 image: about-bg.jpg
